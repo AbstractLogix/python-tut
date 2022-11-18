@@ -1,6 +1,6 @@
 # ----- FILE IO -----
 # We can save and read data from files
-# We start the code with with which guarantees
+# We start the code with 'with' which guarantees
 # the file will be closed if the program crashes
 # mode w overwrites file
 # mode a appends

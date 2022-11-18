@@ -1,12 +1,11 @@
+from functools import reduce
 # ----- FUNCTIONS -----
 # Functions provide code reuse, organization
 # and much more
+
 # Add 2 values using 1 as default
 # You can define the data type using function
 # annotations
-from functools import reduce
-
-
 def get_sum(num1: int = 1, num2: int = 1):
     return num1 + num2
 

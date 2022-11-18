@@ -36,6 +36,5 @@
 20. Connect to Databases
 21. Recursive Functions
 22. Modules
-23. GUI Development using TkInter
-24. CLI Development using Typer
-25. API Development using FastAPI
+23. CLI Development using Typer
+24. API Development using FastAPI
