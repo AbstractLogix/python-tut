@@ -2,7 +2,7 @@
 # This is an upgrade to the previous simple 
 # example to add some complexity
 
-import typer
+import typer # type: ignore
 
 # Creates a typer.Typer() app, and create two subcommands with their parameters
 # run python --help

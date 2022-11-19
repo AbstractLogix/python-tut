@@ -1,4 +1,4 @@
-import typer 
+import typer # type: ignore 
 
 # run python typertut --help
 # you get help for free
