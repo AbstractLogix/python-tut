@@ -2,10 +2,10 @@
 # 
 # import our module
 from math import factorial
-import recursiveFunction
+import notes.recursive_function as recursive_function
 
 
-print(recursiveFunction.factorial(4))
+print(recursive_function.factorial(4))
 
 # OR
 
